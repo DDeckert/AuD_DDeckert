@@ -1,6 +1,6 @@
 Allgemeines
 ***********************
-Dies ist ein git-Repo, in dem meine Materialien für das Tutorium zu "Algorithmen und Datenstrukturen" im WS 2016 gesammelt werden. Alle Lösungen sind von mir selbst erstellt und können daher fehlerbehaftet sein. Ich werde mich anstrengen, nur korrekte Inhalte hochzuladen, bin aber auch offen für Rückfragen/ Kritik.
+Dies ist ein git-Repo, in dem meine Materialien für das Tutorium zu "Algorithmen und Datenstrukturen" im WS 2016 gesammelt werden. Alle Lösungen sind von mir selbst erstellt und können daher fehlerbehaftet sein (sind also ohne Gewähr). Ich werde mich anstrengen, nur korrekte Inhalte hochzuladen, bin aber auch offen für Rückfragen/ Kritik. Ich versuche Fehler dann schnellstmöglich zu beheben.
 
 Zu den Folien
 **********************
