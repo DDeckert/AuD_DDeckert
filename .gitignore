@@ -74,3 +74,4 @@ dkms.conf
 *.mtc1
 *.out
 *.synctex.gz
+*.tex
