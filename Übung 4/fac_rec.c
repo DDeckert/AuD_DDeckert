@@ -8,12 +8,12 @@ int fac_rec(int n);
 int main(void){
 	int i;
 	scanf("%i", &i);
-	printf("%d", fac(i));
+	printf("%d", fac_rec(i));
 	Sleep(10000);
 	return 0;
 }
 
 int fac_rec(int n){
 	if(n==0) return 1;
-	else return n*fac(n-1);
+	else return n*fac_rec(n-1);
 }
