@@ -75,3 +75,10 @@ dkms.conf
 *.out
 *.synctex.gz
 *.tex
+*.nav
+
+
+*.snm
+*.bib
+*.xml
+*.vrb
